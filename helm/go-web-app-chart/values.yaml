@@ -8,7 +8,7 @@ image:
   repository: divyajp/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "11452864014"
+  tag: "11452886249"
 
 ingress:
   enabled: false
